@@ -10,6 +10,5 @@ Me chamo Andrei e sou um entusiasta na área da tecnologia. Neste momento estou 
 <br>
 <br>
 <br>
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
